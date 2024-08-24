@@ -11,35 +11,9 @@ I'm a passionate data enthusiast with extensive knowledge in Python, SQL, Micros
 - 📱 Phone: +91 9072231582
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/agusrajuthaliyan/)
 
-### 💼 Experience
-
-**Business Development Intern** | Centre For Public Policy Research (CPPR), Kochi
-*July 2023 – October 2023*
-- Delivered a cleaned CRM contact database, ensuring utmost data quality
-- Increased data quality by more than 70%
-- Devised a new method to simplify the data cleaning procedure
-
-### 🎓 Education
-
-- **M.Sc. Computer Science (Data Analytics)** | Rajagiri College of Social Sciences (RCSS), Kalamassery, Kerala
-  *June 2024 – Present*
-
-- **B.Sc. Statistics** | Mar Athanasius College of Arts and Science (Autonomous), Kothamangalam, Kerala
-  *June 2020 – May 2023*
-  CCPA Grade: 6.23
-
 ### 🛠️ Skills
 
 Python, SQL, Power BI, Microsoft Excel, R Programming, Figma, GitHub, EDA, Statistics, Data Cleaning, Data Analysis, Machine Learning, Regression Analysis, Data Visualization, UI/UX, Communication, Analytical Skills, Critical Thinking, Problem Solving, Creative Thinking, Attention to Detail, Leadership
-
-### 🏆 Projects
-
-**STUDY ON OPEN COURSE ELECTIVE CHOICES OF STUDENTS [2019-2020]**
-- Coordinated a team of four and enabled effective communication in presenting insights from open course elective data
-- Built and devised the entire Python code for the academic project
-- Conducted various statistical analyses to analyze and interpret the data
-
-[View Project](https://github.com/agusrajuthaliyan/Open-Course-Data-Analysis-Project)
 
 ### 📜 Certifications
 
@@ -56,10 +30,6 @@ Python, SQL, Power BI, Microsoft Excel, R Programming, Figma, GitHub, EDA, Stati
 ### 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=agusrajuthaliyan&show_icons=true&theme=radical)
-
-### 🌟 Fun Fact
-
-I've invested close to 300 hours in upskilling myself and completed nearly 30 online courses from reputed companies!
 
 ### 📫 Let's Connect
 
