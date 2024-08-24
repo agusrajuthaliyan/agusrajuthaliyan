@@ -1,27 +1,28 @@
-# Hi👋🏾, I Am Agus Raju Thaliyan!
+<h2 align="center">🌟 Hi,👋🏾 I'm Agus Raju Thaliyan! 🌟</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=📊+Data+Enthusiast;🐍+Python+Developer;📈+Analytics+Specialist&center=true&size=30">
+  <img src="https://img.shields.io/badge/-Perumbavoor,%20Kerala,%20India-blue?style=flat-square&logo=google-maps&logoColor=white" alt="Location Badge">
+  <a href="mailto:agusraju43@gmail.com">
+    <img src="https://img.shields.io/badge/Email-agusraju43@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/agusrajuthaliyan/">
+    <img src="https://img.shields.io/badge/-LinkedIn%20Profile-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=📊+Data+Enthusiast;🐍+Python+Developer;📈+Analytics+Specialist&center=true&size=20">
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Turning%20data%20into%20insights%2C%20one%20algorithm%20at%20a%20time.&author=Agus%20Raju%20Thaliyan" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Turning%20data%20into%20insights%2C%20one%20algorithm%20at%20a%20time.&author=Agus%20Raju%20Thaliyan&fontSize=8" />
 </p>
 
-- 📍 Based in Perumbavoor, Kerala, India
-- 📧 Email: agusraju43@gmail.com
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/agusrajuthaliyan/)
-
-## 🚀About Me
-- 🎓 M.Sc. Computer Science (Data Analytics) student at Rajagiri College of Social Sciences (RCSS)
-- 💼 Ex-Business Development Intern at CPPR
-- 🌟 Passionate about data analysis, machine learning, and visualization
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/SQL-Ninja-orange?style=for-the-badge&logo=mysql" />
-<img src="https://img.shields.io/badge/Data Analysis-Enthusiast-green?style=for-the-badge&logo=tableau" />
-<img src="https://img.shields.io/badge/C Programming-Master-red?style=for-the-badge&logo=c" />
-</p>
+## 🚀 About Me
+- 🎓 **M.Sc. Computer Science (Data Analytics)** student at [Rajagiri College of Social Sciences (RCSS)](https://rajagiri.edu/)
+- 💼 **Ex-Business Development Intern** at [CPPR](https://www.cppr.in/)
+- 🌟 **Passionate about:** 
+  - Data analysis 📊
+  - Machine learning 🤖
+  - Visualization 📈
 
 ## 🛠️ Tech Arsenal
 
