@@ -136,7 +136,7 @@
       <p>Streamlit based web application that predicts the closing price of stocks using historical data and a Random Forest model. Users can select any stock to predict the closing price.</p>
     </div>
     <div class="card-footer">
-      <a href="hhttps://github.com/agusrajuthaliyan/Stock-Price-Prediction-App" target="_blank" class="project-link">🔗 View Project</a>
+      <a href="https://github.com/agusrajuthaliyan/Stock-Price-Prediction-App" target="_blank" class="project-link">🔗 View Project</a>
     </div>
   </div>
 <!-- 
