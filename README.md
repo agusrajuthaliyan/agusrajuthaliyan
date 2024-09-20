@@ -17,11 +17,11 @@
     <tr>
       <td align="center" width="200">
         <div style="font-size: 40px;"><img src="https://pub-821312cfd07a4061bf7b99c1f23ed29b.r2.dev/v1/dynamic/color/computer-dynamic-color.png"  ></div>
-        <h4>M.Sc. Computer Science</h4>
+        <h4>M.Sc. Computer Science</h4> 
         <p>(Data Analytics)</p>
       </td>
       <td align="center" width="200">
-        <div style="font-size: 40px;">  <img src="https://pub-821312cfd07a4061bf7b99c1f23ed29b.r2.dev/v1/dynamic/color/travel-dynamic-color.png"   >
+        <div style="font-size: 40px;">  <img src="https://pub-821312cfd07a4061bf7b99c1f23ed29b.r2.dev/v1/dynamic/color/travel-dynamic-color.png">
 </div>
         <h4>Ex-Business Development Intern</h4>
         <p><a href="https://www.cppr.in/" target="_blank">CPPR</a></p>
@@ -40,22 +40,22 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Data%20Analysis-009688?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%20Programming-191970?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-6264A7?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-FF69B4?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-9C27B0?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/r programming-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R Programming" />
-  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-FF0000?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />  
-  <img src="https://img.shields.io/badge/scikit%20learn-F08080?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit learn" /> 
-  <img src="https://img.shields.io/badge/Matplotlib-FD0E14?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />  
-  <img src="https://img.shields.io/badge/seaborn-539E0B?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />  
-  <img src ="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" />
-  <img src ="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src = "https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%20Programming-FFC107?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-C5CAE9?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-FFEB3B?style=for-the-badge&logo=power-bi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-007BFF?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-E91E63?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-2C3E55?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/r%20programming-%2196F0?style=for-the-badge&logo=r&logoColor=white" alt="R Programming" />
+  <img src="https://img.shields.io/badge/NumPy-FFC107?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-007BFF?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" /> 
+  <img src="https://img.shields.io/badge/scikit%20learn-F44336?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit learn" /> 
+  <img src="https://img.shields.io/badge/Matplotlib-FF9800?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />  
+  <img src="https://img.shields.io/badge/seaborn-F0027F?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />  
+  <img src ="https://img.shields.io/badge/Framer-7C3AED?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src ="https://img.shields.io/badge/Plotly-%2CA2C3?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src = "https://img.shields.io/badge/jupyter-%280,128,128)?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 
