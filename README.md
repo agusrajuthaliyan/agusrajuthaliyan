@@ -9,6 +9,31 @@
 </div>
 
 
+## 🚀 About Me
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <div style="font-size: 40px;"><img src="https://pub-821312cfd07a4061bf7b99c1f23ed29b.r2.dev/v1/dynamic/color/computer-dynamic-color.png" class="color" width="100" height="100"></div>
+        <h4>M.Sc. Computer Science</h4>
+        <p>(Data Analytics)</p>
+      </td>
+      <td align="center" width="200">
+        <div style="font-size: 40px;">  <img src="https://pub-821312cfd07a4061bf7b99c1f23ed29b.r2.dev/v1/dynamic/color/travel-dynamic-color.png" class="color"  width="100" height="100">
+</div>
+        <h4>Ex-Business Development Intern</h4>
+        <p><a href="https://www.cppr.in/" target="_blank">CPPR</a></p>
+      </td>
+      <td align="center" width="200">
+        <div style="font-size: 40px;"><img src="https://pub-821312cfd07a4061bf7b99c1f23ed29b.r2.dev/v1/dynamic/color/heart-dynamic-color.png" class="color" width="100" height="100"></div>
+        <h4>Passionate About</h4>
+        <p>Data Analysis<br>Machine Learning<br>Visualization</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ## 🚀 About Me
 
@@ -16,17 +41,17 @@
   <table>
     <tr>
       <td align="center" width="200">
-        <div style="font-size: 40px;">🎓</div>
+        <div style="font-size: 40px;"><img src="Resources\computer-science.png" alt="Computer Science" /></div>
         <h4>M.Sc. Computer Science</h4>
         <p>(Data Analytics)</p>
       </td>
       <td align="center" width="200">
-        <div style="font-size: 40px;">💼</div>
+        <div style="font-size: 40px;"><img src="Resources\computer-worker.png" alt="Data Science Resources" /></div>
         <h4>Ex-Business Development Intern</h4>
         <p><a href="https://www.cppr.in/" target="_blank">CPPR</a></p>
       </td>
       <td align="center" width="200">
-        <div style="font-size: 40px;">🌟</div>
+        <div style="font-size: 40px;"><img src="Resources\passionate3.png" alt="Data Science Resources" /></div>
         <h4>Passionate About</h4>
         <p>Data Analysis<br>Machine Learning<br>Visualization</p>
       </td>
@@ -40,13 +65,16 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Data%20Analysis-009688?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/C%20Programming-191970?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-6264A7?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/Canva-FF69B4?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-9C27B0?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+   </p>
+
 
 <div align="center">
 
