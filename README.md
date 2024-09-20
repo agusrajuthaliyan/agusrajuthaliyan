@@ -90,23 +90,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=agusrajuthaliyan&color=blue&style=flat-square&label=Profile+Views" />
 </p>
-
-
-  ## ️ Tech Arsenal
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Data%20Analysis-009688?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%20Programming-191970?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-6264A7?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-FF69B4?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-9C27B0?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/R Programming-409093?style=for-the-badge&logo=r-lang&logoColor=white" alt="R Programming" />
-  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-FF0000?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />  <img src="https://img.shields.io/badge/scikit learn-F08080?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit learn" /> 
-  <img src="https://img.shields.io/badge/Matplotlib-FD0E14?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />  <img src="https://img.shields.io/badge/seaborn-539E0B?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />  
-</p>
-
