@@ -56,7 +56,11 @@
   <img src ="https://img.shields.io/badge/Framer-7C3AED?style=for-the-badge&logo=framer&logoColor=white" />
   <img src ="https://img.shields.io/badge/Plotly-%2CA2C3?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src = "https://img.shields.io/badge/jupyter-%280,128,128)?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistics-00897B?style=for-the-badge&logo=statistics&logoColor=white" alt="Statistics" />
+  <img src="https://img.shields.io/badge/Statsmodels-512DA8?style=for-the-badge&logo=statsmodels&logoColor=white" alt="Statsmodels" />
 </p>
+
+
 
 
 <div align="center">
