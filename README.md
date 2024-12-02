@@ -16,20 +16,20 @@
   <table>
     <tr>
       <td align="center" width="200">
-        <div style="font-size: 40px;"><img src="Resources\uni.png"  ></div>
+        <div style="font-size: 40px;"><img src="Resources\Coding 8.png"  ></div>
         <h4>M.Sc. Computer Science</h4> 
         <p>(Data Analytics)</p>
       </td>
       <td align="center" width="200">
-        <div style="font-size: 40px;">  <img src="Resources\intern.png">
+        <div style="font-size: 40px;">  <img src="Resources\Analyst.png">
 </div>
-        <h4>Ex-Business Development Intern</h4>
-        <p><a href="https://www.cppr.in/" target="_blank">CPPR</a></p>
+        <h4>Ex-Business Development Intern </h4>
+        <p><a href="https://www.cppr.in/" target="_blank">@ CPPR</a></p>
       </td>
       <td align="center" width="200">
-        <div style="font-size: 40px;"><img src="Resources\love.png"  ></div>
+        <div style="font-size: 40px;"><img src="Resources\Artist.png"  ></div>
         <h4>Passionate About</h4>
-        <p>Data Analysis<br>Machine Learning<br>Visualization</p>
+        <p>Data Analysis,<br>Machine Learning &<br>Visualization</p>
       </td>
     </tr>
   </table>
