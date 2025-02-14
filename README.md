@@ -9,25 +9,24 @@
   <img src="https://img.shields.io/badge/-Turning%20data%20into%20insights%2C%20one%20algorithm%20at%20a%20time.-blue?style=for-the-badge&labelColor=black" alt="Quote Badge">
 </div>
 
-
 ## 🚀 About Me
 
 <div align="center" class="responsive-image">
   <table>
     <tr>
       <td align="center" width="200">
-        <div style="font-size: 40px;"><img src="Resources\Coding 8.png"  ></div>
+        <div style="font-size: 40px;"><img src="Resources/edu.png"  ></div>
         <h4>M.Sc. Computer Science</h4> 
         <p>(Data Analytics)</p>
       </td>
       <td align="center" width="200">
-        <div style="font-size: 40px;">  <img src="Resources\Analyst.png">
+        <div style="font-size: 40px;">  <img src="Resources/tick.png">
 </div>
         <h4>Ex-Business Development Intern </h4>
         <p><a href="https://www.cppr.in/" target="_blank">@ CPPR</a></p>
       </td>
       <td align="center" width="200">
-        <div style="font-size: 40px;"><img src="Resources\Artist.png"  ></div>
+        <div style="font-size: 40px;"><img src="Resources/plot.png"  ></div>
         <h4>Passionate About</h4>
         <p>Data Analysis,<br>Machine Learning &<br>Visualization</p>
       </td>
