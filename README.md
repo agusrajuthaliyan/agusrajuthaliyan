@@ -14,21 +14,25 @@
 <div align="center" class="responsive-image">
   <table>
     <tr>
-      <td align="center" width="200">
-        <div style="font-size: 40px;"><img src="Resources/edu.png"  ></div>
+      <td align="center" width="250">
+        <div style="font-size: 40px;"><img src="Resources/graduation-hat-folder.png" ></div>
         <h4>M.Sc. Computer Science</h4> 
         <p>(Data Analytics)</p>
       </td>
       <td align="center" width="200">
-        <div style="font-size: 40px;">  <img src="Resources/tick.png">
-</div>
+        <div style="font-size: 40px;"> <img src="Resources/BDIntern.png"></div>
         <h4>Ex-Business Development Intern </h4>
         <p><a href="https://www.cppr.in/" target="_blank">@ CPPR</a></p>
       </td>
-      <td align="center" width="200">
-        <div style="font-size: 40px;"><img src="Resources/plot.png"  ></div>
+      <td align="center" width="350">
+        <div style="font-size: 40px;"><img src="Resources/passionate.png" ></div>
         <h4>Passionate About</h4>
-        <p>Data Analysis,<br>Machine Learning &<br>Visualization</p>
+        <p>Data Analysis,<br>ML &<br>Visualization</p>
+      </td>
+        <td align="center" width="200">
+        <div style="font-size: 40px;"><img src="Resources/google.png" alt="Google Data Analyst Certificate"></div>
+        <h4>Google Certified Data Analyst</h4>
+        <p>Issued by Google</p> 
       </td>
     </tr>
   </table>
