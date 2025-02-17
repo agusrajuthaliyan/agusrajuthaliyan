@@ -20,12 +20,12 @@
         <p>(Data Analytics)</p>
       </td>
       <td align="center" width="200">
-        <div style="font-size: 40px;"> <img src="Resources/BDIntern.png"></div>
+        <div style="font-size: 40px;"> <img src="Resources/internship.png"></div>
         <h4>Ex-Business Development Intern </h4>
         <p><a href="https://www.cppr.in/" target="_blank">@ CPPR</a></p>
       </td>
       <td align="center" width="350">
-        <div style="font-size: 40px;"><img src="Resources/passionate.png" ></div>
+        <div style="font-size: 40px;"><img src="Resources/passionate (2).png" ></div>
         <h4>Passionate About</h4>
         <p>Data Analysis,<br>ML &<br>Visualization</p>
       </td>
