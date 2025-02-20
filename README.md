@@ -32,7 +32,7 @@
         <td align="center" width="200">
         <div style="font-size: 40px;"><img src="Resources/google.png" alt="Google Data Analyst Certificate"></div>
         <h4>Google Certified Data Analyst</h4>
-        <p>Issued by Google</p> 
+        <p><a href="https://www.coursera.org/account/accomplishments/specialization/P27HT7MPS05N" target="_blank">Issued by Google</a></p> 
       </td>
     </tr>
   </table>
