@@ -24,7 +24,7 @@
         <h4>Ex-Business Development Intern </h4>
         <p><a href="https://www.cppr.in/" target="_blank">@ CPPR</a></p>
       </td>
-      <td align="center" width="350">
+      <td align="center" width="250">
         <div style="font-size: 40px;"><img src="Resources/passionate (2).png" ></div>
         <h4>Passionate About</h4>
         <p>Data Analysis,<br>ML &<br>Visualization</p>
