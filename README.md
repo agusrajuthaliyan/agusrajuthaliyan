@@ -12,27 +12,31 @@
 
 ## 🚀 **About Me**
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div style="background: #f5f5f5; border-radius: 10px; padding: 20px; width: 200px; text-align: center;">
-    <img src="https://img.icons8.com/color/48/000000/graduation-cap.png" width="40" height="40" alt="Graduation"/>
-    <h4>M.Sc. Computer Science</h4> 
-    <p>(Data Analytics)</p>
-  </div>
-  <div style="background: #f5f5f5; border-radius: 10px; padding: 20px; width: 200px; text-align: center;">
-    <img src="https://img.icons8.com/color/48/000000/internship.png" width="40" height="40" alt="Internship"/>
-    <h4>Ex-Business Development Intern</h4>
-    <p><a href="https://www.cppr.in/" target="_blank">@ CPPR</a></p>
-  </div>
-  <div style="background: #f5f5f5; border-radius: 10px; padding: 20px; width: 200px; text-align: center;">
-    <img src="https://img.icons8.com/?size=100&id=1fIAQM3MFEV1&format=png&color=000000" width="40" height="40" alt="Passion"/>
-    <h4>Passionate About</h4>
-    <p>Data Analysis,<br>Machine Learning,<br>& Visualization</p>
-  </div>
-  <div style="background: #f5f5f5; border-radius: 10px; padding: 20px; width: 200px; text-align: center;">
-    <img src="https://img.icons8.com/color/48/000000/google-logo.png" width="40" height="40" alt="Google"/>
-    <h4>Google Certified Data Analyst</h4>
-    <p><a href="https://www.coursera.org/account/accomplishments/specialization/P27HT7MPS05N" target="_blank">Issued by Google</a></p> 
-  </div>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/graduation-cap.png" width="40" height="40" alt="Graduation"/>
+        <h4>M.Sc. Computer Science</h4> 
+        <p>(Data Analytics)</p>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/internship.png" width="40" height="40" alt="Internship"/>
+        <h4>Ex-Business Development Intern</h4>
+        <p><a href="https://www.cppr.in/" target="_blank">@ CPPR</a></p>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/?size=100&id=1fIAQM3MFEV1&format=png&color=000000" width="40" height="40" alt="Passion"/>
+        <h4>Passionate About</h4>
+        <p>Data Analysis,<br>Machine Learning,<br>& Visualization</p>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/google-logo.png" width="40" height="40" alt="Google"/>
+        <h4>Google Certified Data Analyst</h4>
+        <p><a href="https://www.coursera.org/account/accomplishments/specialization/P27HT7MPS05N" target="_blank">Issued by Google</a></p> 
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
