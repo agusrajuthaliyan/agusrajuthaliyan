@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/-Turning%20data%20into%20insights%2C%20one%20algorithm%20at%20a%20time.-blue?style=for-the-badge&labelColor=black" alt="Quote Badge">
 </div>
 
----
 
 ## 🚀 **About Me**
 
@@ -39,7 +38,6 @@
   </table>
 </div>
 
----
 
 ## 🛠️ **Tech Stack**
 
@@ -66,7 +64,6 @@
   <img src="https://img.shields.io/badge/Statsmodels-512DA8?style=for-the-badge&logo=statsmodels&logoColor=white" alt="Statsmodels" />
 </p>
 
----
 
 ## 📊 **GitHub Stats**
 
@@ -75,19 +72,6 @@
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agusrajuthaliyan&layout=compact&theme=radical)
 
 </div>
-
----
-
-## 📂 **Featured Projects**
-
-**Here are some of my key projects:**
-
-| Project | Description |
-|---------|-------------|
-| ![Project 1](Resources/proj1.png) | **[Open-Course Data Analysis Project](https://github.com/agusrajuthaliyan/Open-Course-Data-Analysis-Project)**<br>Analyzed trends and behaviors of student choices during an elective program. |
-| ![Project 2](Resources/proj2.png) | **[Stock Market Price Prediction App](https://github.com/agusrajuthaliyan/Stock-Price-Prediction-App)**<br>Streamlit web app predicting stock closing prices using Random Forest. |
-
----
 
 ## 📫 **Let's Connect**
 
