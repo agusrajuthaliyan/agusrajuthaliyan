@@ -8,36 +8,34 @@
   <img src="https://img.shields.io/badge/-Turning%20data%20into%20insights%2C%20one%20algorithm%20at%20a%20time.-blue?style=for-the-badge&labelColor=black" alt="Quote Badge">
 </div>
 
-
-## 🚀 **About Me**
+## 🚀 About Me
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/graduation-cap.png" width="40" height="40" alt="Graduation"/>
-        <h4>M.Sc. Computer Science</h4> 
-        <p>(Data Analytics)</p>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/internship.png" width="40" height="40" alt="Internship"/>
-        <h4>Ex-Business Development Intern</h4>
-        <p><a href="https://www.cppr.in/" target="_blank">@ CPPR</a></p>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/?size=100&id=1fIAQM3MFEV1&format=png&color=000000" width="40" height="40" alt="Passion"/>
-        <h4>Passionate About</h4>
-        <p>Data Analysis,<br>Machine Learning,<br>& Visualization</p>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/google-logo.png" width="40" height="40" alt="Google"/>
-        <h4>Google Certified Data Analyst</h4>
-        <p><a href="https://www.coursera.org/account/accomplishments/specialization/P27HT7MPS05N" target="_blank">Issued by Google</a></p> 
-      </td>
-    </tr>
-  </table>
+ <table>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://img.icons8.com/color/48/000000/graduation-cap.png" width="40" height="40" alt="Education"/> <br/>
+      <b>M.Sc. Computer Science</b> <br/>
+      (Data Analytics)
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.icons8.com/color/48/000000/internship.png" width="40" height="40" alt="Experience"/> <br/>
+      <b>Ex-Business Development Intern</b> <br/>
+      <a href="https://www.cppr.in/" target="_blank">@ CPPR</a>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.icons8.com/color/48/000000/combo-chart.png" width="40" height="40" alt="Interests"/> <br/>
+      <b>Passionate About</b> <br/>
+      Data Analysis,<br/>Machine Learning,<br/>& Visualization
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.icons8.com/color/48/000000/google-logo.png" width="40" height="40" alt="Certification"/> <br/>
+      <b>Google Certified Data Analyst</b> <br/>
+      <a href="https://www.coursera.org/account/accomplishments/specialization/P27HT7MPS05N" target="_blank">View Certificate</a>
+    </td>
+  </tr>
+ </table>
 </div>
-
 
 ## 🛠️ **Tech Stack**
 
@@ -65,7 +63,7 @@
 </p>
 
 
-## 📊 **GitHub Stats**
+<!-- ## 📊 **GitHub Stats** -->
 
 <div align="center">
 
@@ -73,7 +71,7 @@
 
 </div>
 
-## 📫 **Let's Connect**
+<!-- ## 📫 **Let's Connect** -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/agusrajuthaliyan/">
@@ -90,5 +88,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=agusrajuthaliyan&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
-
----
