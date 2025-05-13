@@ -1,16 +1,16 @@
-<h1 align="center">👋 Hi there, I'm Agus Raju Thaliyan!</h1>
+<!-- <h1 align="left">👋 Hi there, I'm Agus Raju Thaliyan!</h1> -->
 
-<div align="center">
+<!-- <div align="center">
   <blockquote style="font-size: 1.25em; font-style: italic; color: #555; max-width: 600px; border-left: 4px solid #007bff; padding-left: 16px; margin: 20px auto;">
     "Turning data into insights, one algorithm at a time."
   </blockquote>
   
   <img src="https://img.shields.io/badge/-Turning%20data%20into%20insights%2C%20one%20algorithm%20at%20a%20time.-blue?style=for-the-badge&labelColor=black" alt="Quote Badge">
-</div>
+</div> -->
 
-## 🚀 About Me
+![](Resources/banner.png)
 
-<div align="center">
+<!-- <div align="center">
  <table>
   <tr>
     <td align="center" valign="top">
@@ -35,7 +35,7 @@
     </td>
   </tr>
  </table>
-</div>
+</div> -->
 
 ## 🛠️ **Tech Stack**
 
