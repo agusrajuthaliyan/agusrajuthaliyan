@@ -72,24 +72,27 @@
 
 <div align="center">
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agusrajuthaliyan&layout=compact&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agusrajuthaliyan&layout=compact&theme=kacho_gashades-of-purple)
 
 </div>
 
 <!-- ## 📫 **Let's Connect** -->
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/agusrajuthaliyan/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/agusrajuthaliyan">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="mailto:agusraju43@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=agusrajuthaliyan&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=agusrajuthaliyan&color=27B67C&style=for-the-badge&label=Profile Views" alt="Profile Views" />
+</p>
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/agusrajuthaliyan/">
+    <img src="https://skillicons.dev/icons?i=linkedin&size=48" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/agusrajuthaliyan">
+    <img src="https://skillicons.dev/icons?i=github&size=48" alt="GitHub" />
+  </a>
+  <a href="mailto:agusraju43@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&size=48" alt="Email" />
+  </a>
 </p>
