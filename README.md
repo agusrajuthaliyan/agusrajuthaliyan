@@ -39,6 +39,7 @@
 
 ## 🛠️ **Tech Stack**
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="SQL" />
@@ -64,6 +65,8 @@
   <img src="https://img.shields.io/badge/MediaPipe-2196F3?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
   <img src="https://img.shields.io/badge/Gemini-8D6CFF?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/Llama-FF6F00?style=for-the-badge&logo=llama&logoColor=white" alt="Llama" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 </p>
 <!-- ## 📊 **GitHub Stats** -->
 
