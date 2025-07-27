@@ -100,7 +100,3 @@
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agusrajuthaliyan&layout=compact&theme=chartreuse-dark)
 
 </div>
-
-## 🐍 Contributions
-
-![snake gif](https://github.com/agusrajuthaliyan/agusrajuthaliyan/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
