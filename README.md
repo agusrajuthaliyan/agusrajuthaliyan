@@ -76,14 +76,6 @@
 </p>
 
 
-<!-- ## 📊 **GitHub Stats** -->
-
-<div align="center">
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agusrajuthaliyan&layout=compact&theme=kacho_gashades-of-purple)
-
-</div>
-
 <!-- ## 📫 **Let's Connect** -->
 
 <p align="center">
@@ -102,3 +94,10 @@
     <img src="https://skillicons.dev/icons?i=gmail&size=48" alt="Email" />
   </a>
 </p>
+
+<!-- ## 📊 **GitHub Stats** -->
+<div align="center">
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agusrajuthaliyan&layout=compact&theme=chartreuse-dark)
+
+</div>
