@@ -101,4 +101,6 @@
 
 </div>
 
+## 🐍 Contributions
+
 ![snake gif](https://github.com/agusrajuthaliyan/agusrajuthaliyan/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
