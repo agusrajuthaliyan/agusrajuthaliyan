@@ -1,7 +1,8 @@
 ![](Resources/banner.png)
 
 
-## 🛠️ **Tech Stack**
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -38,7 +39,11 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
 </p>
 
-
+<p align="center">
+  <a href="https://agusrajuthaliyan.github.io">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-B700FF?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Button" />
+  </a>
+</p>
 <!-- ## 📫 **Let's Connect** -->
 
 <p align="center">
