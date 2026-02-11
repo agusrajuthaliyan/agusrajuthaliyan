@@ -1,7 +1,5 @@
 ![](Resources/banner.png)
 
-# Hi there, I'm Agus Raju Thaliyan! 👋
-
 I'm a passionate **Data Analyst** and **Developer** enthusiastic about **AI**, **Data Science**, and **Web Development**.
 I love building impactful projects and exploring new technologies.
 
