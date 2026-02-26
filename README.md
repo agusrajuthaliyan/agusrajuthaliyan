@@ -6,9 +6,9 @@ I love building impactful projects and exploring new technologies.
 <div align="center">
 
   <!-- Main tech stack — compact icon grid -->
-  <img src="https://skillicons.dev/icons?i=python,java,c,r,php,html,css,md,powershell,git,github,vscode&perline=12" alt="Languages & Tools" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,r,php,html,css,tailwind,md,latex,powershell,git,github&perline=13" alt="Languages & Tools" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=laravel,tensorflow,opencv,sklearn,matplotlib,streamlit,jupyter,docker,mysql,gcp,vercel,figma&perline=12" alt="Frameworks & Platforms" />
+  <img src="https://skillicons.dev/icons?i=vscode,laravel,tensorflow,opencv,sklearn,matplotlib,streamlit,jupyter,docker,mysql,gcp,vercel,figma&perline=13" alt="Frameworks & Platforms" />
 
   <br/><br/>
 
@@ -24,6 +24,7 @@ I love building impactful projects and exploring new technologies.
   <img src="https://img.shields.io/badge/Llama-0497FF?style=flat-square&logo=meta&logoColor=white" alt="Llama" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" alt="Anaconda" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
   <img src="https://img.shields.io/badge/Seaborn-44566C?style=flat-square" alt="Seaborn" />
   <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square&logo=google&logoColor=white" alt="MediaPipe" />
